@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data engineering project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/silasmaverick/](https://github.com/silasmaverick/Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/silasmaverick/Projects](https://github.com/silasmaverick/Projects)
 
 - 📫 How to reach me **silasgloliveira@yahoo.com**
 
