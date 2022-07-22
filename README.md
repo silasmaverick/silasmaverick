@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋, I'm Silas Lino</h1>
 <h4 align="center">Data Engineer, enthusiast of data driven culture, IoT, cloud technologies and crypto currencies</h4>
 
-- 🔭 I’m currently working on **Instituto de Pesos e Medidas-SP Brazil - (Governmental Administration)**
+- 🔭 I’m currently working on **Impulso Gov - (non-governmental organisation)**
 
-- 🌱 I’m currently learning **Big Data, Cloud (GCP, AWS), Databricks, Airflow, ETL**
+- 🌱 I’m currently learning **Big Data, Cloud (GCP, AWS,Azure), Databricks, DBT, ETL**
 
 - 👯 I’m looking to collaborate on **Data engineering project**
 
