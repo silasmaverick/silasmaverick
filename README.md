@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Silas Lino</h1>
 <h4 align="center">Data Engineer, enthusiast of data driven culture, IoT, cloud technologies and crypto currencies</h4>
 
-- 🔭 I’m currently working on **Tenbu a Accenture company**
+- 🔭 I’m currently working on **Leega**
 
 - 🌱 I’m currently learning **Big Data, Cloud (GCP, AWS,Azure), Databricks, DBT, ETL**
 
